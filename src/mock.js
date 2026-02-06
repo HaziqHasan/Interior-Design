@@ -70,48 +70,48 @@ export const projects = [
     image: "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzF8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc3MDMwMjk4Nnww&ixlib=rb-4.1.0&q=85",
     description: "Modern luxury kitchen"
   },
-  {
-    id: 7,
-    title: "Designer Kitchen",
-    category: "Residential",
-    image: "https://images.unsplash.com/photo-1628745277862-bc0b2d68c50c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzF8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc3MDMwMjk4Nnww&ixlib=rb-4.1.0&q=85",
-    description: "Sophisticated culinary space"
-  },
-  {
-    id: 8,
-    title: "Executive Kitchen",
-    category: "Luxury",
-    image: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg",
-    description: "High-end kitchen design"
-  },
-  {
-    id: 9,
-    title: "Commercial Office",
-    category: "Commercial",
-    image: "https://images.unsplash.com/photo-1540760029765-138c8f6d2eac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1NzZ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBjb21tZXJjaWFsJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzcwMzAzMDE4fDA&ixlib=rb-4.1.0&q=85",
-    description: "Modern commercial space"
-  },
-  {
-    id: 10,
-    title: "Hotel Lobby",
-    category: "Commercial",
-    image: "https://images.unsplash.com/photo-1720540244592-b4124532b318?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
-    description: "Luxury hospitality design"
-  },
-  {
-    id: 11,
-    title: "Boutique Hotel",
-    category: "Luxury",
-    image: "https://images.unsplash.com/photo-1702814160779-4a88cfb330c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
-    description: "Premium hotel interior"
-  },
-  {
-    id: 12,
-    title: "Grand Lobby",
-    category: "Commercial",
-    image: "https://images.unsplash.com/photo-1677129667171-92abd8740fa3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
-    description: "Elegant hotel entrance"
-  }
+  // {
+  //   id: 7,
+  //   title: "Designer Kitchen",
+  //   category: "Residential",
+  //   image: "https://images.unsplash.com/photo-1628745277862-bc0b2d68c50c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzF8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc3MDMwMjk4Nnww&ixlib=rb-4.1.0&q=85",
+  //   description: "Sophisticated culinary space"
+  // },
+  // {
+  //   id: 8,
+  //   title: "Executive Kitchen",
+  //   category: "Luxury",
+  //   image: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg",
+  //   description: "High-end kitchen design"
+  // },
+  // {
+  //   id: 9,
+  //   title: "Commercial Office",
+  //   category: "Commercial",
+  //   image: "https://images.unsplash.com/photo-1540760029765-138c8f6d2eac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1NzZ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBjb21tZXJjaWFsJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzcwMzAzMDE4fDA&ixlib=rb-4.1.0&q=85",
+  //   description: "Modern commercial space"
+  // },
+  // {
+  //   id: 10,
+  //   title: "Hotel Lobby",
+  //   category: "Commercial",
+  //   image: "https://images.unsplash.com/photo-1720540244592-b4124532b318?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
+  //   description: "Luxury hospitality design"
+  // },
+  // {
+  //   id: 11,
+  //   title: "Boutique Hotel",
+  //   category: "Luxury",
+  //   image: "https://images.unsplash.com/photo-1702814160779-4a88cfb330c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
+  //   description: "Premium hotel interior"
+  // },
+  // {
+  //   id: 12,
+  //   title: "Grand Lobby",
+  //   category: "Commercial",
+  //   image: "https://images.unsplash.com/photo-1677129667171-92abd8740fa3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzl8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjBob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDMwMzAyN3ww&ixlib=rb-4.1.0&q=85",
+  //   description: "Elegant hotel entrance"
+  // }
 ];
 
 export const milestones = [
